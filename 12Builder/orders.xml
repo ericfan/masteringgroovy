@@ -1,0 +1,18 @@
+<orders>
+  <order>
+    <no>1</no>
+    <description>Description1</description>
+    <customer>
+      <name>Eric</name>
+      <email>eric.fan@test.com</email>
+    </customer>
+  </order>
+  <order>
+    <no>2</no>
+    <description>Description2</description>
+    <customer>
+      <name>Bacon</name>
+      <email>bacon.wang@test.com</email>
+    </customer>
+  </order>
+</orders>
